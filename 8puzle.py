@@ -6,9 +6,9 @@ GOAL = '''1-2-3
 4-5-6
 7-8-e'''
 
-INITIAL = '''4-5-1
-8-3-7
-e-6-2'''
+INITIAL = '''7-2-4
+5-e-6
+8-3-1'''
 
 
 def list_to_string(list_):
